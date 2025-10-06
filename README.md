@@ -1,0 +1,1 @@
+# kamoji-generater
